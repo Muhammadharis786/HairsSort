@@ -93,7 +93,7 @@ If you have ideas to improve **Haris Sort**, feel free to **fork the repository*
 
 ## 📬 Contact  
 📧 **Email:** [hariskhatrijee@gmail.com](mailto:hariskhatrijee@gmail.com)  
-🐙 **GitHub:** [[https://github.com/Muhammadharis786])  
+🐙 **GitHub:** [https://github.com/Muhammadharis786]
 
 ---
 
